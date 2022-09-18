@@ -17,7 +17,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🧠 **Currently learning:** [Next.js ☸](https://nextjs.org//)
 - 💡 **Interested in:** Ecommerce and Web Development 💻
-- 
 
 ---
 
