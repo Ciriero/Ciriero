@@ -13,7 +13,7 @@
 
 ### :man_technologist: &nbsp;About me:
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+I am a MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
 - 🧠 **Currently learning:** [Next.js ☸](https://nextjs.org//)
 - 💡 **Interested in:** Ecommerce and Web Development 💻
