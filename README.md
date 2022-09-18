@@ -20,7 +20,7 @@
         <tr>
             <td>
                <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-               <img src="https://img.shields.io/github/stars/styled-components/styled-components.svg?style=social&label=Star&maxAge=3600" />
+               <img src="https://img.shields.io/badge/STYLED--COMPONENTS-orange" />
                <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
             </td>
