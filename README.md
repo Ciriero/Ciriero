@@ -7,14 +7,14 @@
     </a>
 </p>
 
-<div align="center"><img src="assets/greetings.gif" align="center" height="" width="300" /></div>
+<p align="center"><img src="assets/greetings.gif" align="center" height="" width="300" /></p>
 
-### 👨‍🦱: &nbsp;About Me :
+### 👨‍ &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
 - 🧠 **Currently learning:** [Next.js ☸](https://nextjs.org//)
-- 💡 **Interested in:** `Ecommerce and Web Development 💻`
+- 💡 **Interested in:** Ecommerce and Web Development 💻
 
 ---
 
