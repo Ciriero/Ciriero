@@ -1,4 +1,5 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/></p>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/ciriero"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
      <a href="mailto:chcallec@gmail.com">
@@ -6,9 +7,16 @@
     </a>
 </p>
 
-🧠 **Currently learning:** [Next.js ☸](https://nextjs.org//)
+<div align="center"><img src="assets/greetings.gif" align="center" height="" width="300" /></div>
 
-## My Skill Set ⚡️
+### 👨‍🦱: &nbsp;About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+
+- 🧠 **Currently learning:** [Next.js ☸](https://nextjs.org//)
+- 💡 **Interested in:** `Ecommerce and Web Development 💻`
+
+---
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
