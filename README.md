@@ -23,11 +23,10 @@
         <tr>
             <td>
                <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-               <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-                <img src="https://img.shields.io/badge/Svelte-F73C00?style=for-the-badge&logo=svelte&logoColor=white" />
+               <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />
+            
                <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-               <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
-               <img src="https://img.shields.io/badge/Chakra%20UI-63C9CB?style=for-the-badge&logo=chakraui&logoColor=white" />
+
             </td>
             <td>
                 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
